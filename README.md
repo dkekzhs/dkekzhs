@@ -13,4 +13,7 @@
 <h3 align="center">Blog</h3>
 <p align="center">
   <a href="https://allinfor.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://allinfor.tistory.com/"/></a>&nbsp
+
 </p>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkekzhs)](https://solved.ac/dkekzhs/)
